@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Android_7</string>
+    <string name="img_cover_desc">Book cover</string>
+    <string name="search">Search</string>
+    <string name="clear">Clear search</string>
+
+    <string name="title">Title:</string>
+    <string name="author">Authors:</string>
+    <string name="pages">Pages:</string>
+    <string name="bookfirstpublishyear">First publish year:</string>
+    <string name="ebook">E-Book Availability:</string>
+    <string name="language">Languages:</string>
+    <string name="subject">Subjects:</string>
+</resources>
